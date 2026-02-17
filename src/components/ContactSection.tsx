@@ -20,7 +20,7 @@ const ContactSection = () => {
             {
               icon: MapPin,
               title: "Adresse",
-              lines: ["12 Rue du Vieux Port", "13001 Marseille"],
+              lines: ["43 Boulevard Saint Michel", "75005 Paris"],
             },
             {
               icon: Phone,
