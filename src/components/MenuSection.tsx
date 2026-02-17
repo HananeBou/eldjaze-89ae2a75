@@ -5,7 +5,7 @@ const menuItems = [
   {
     category: "Entrées",
     items: [
-      { name: "Mezze Méditerranéen", description: "Houmous, baba ganoush, taboulé, pain pita chaud", price: "14€" },
+      { name: "Salade Méchouia et galette maison", description: "Houmous, baba ganoush, taboulé, pain pita chaud", price: "14€" },
       { name: "Bourek au Fromage", description: "Feuilles de brick croustillantes, fromage fondant, herbes fraîches", price: "8€" },
       { name: "Brick à l'Œuf", description: "Brick croustillante, œuf coulant, thon, câpres, persil", price: "9€" },
     ],
