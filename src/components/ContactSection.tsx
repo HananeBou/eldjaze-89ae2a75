@@ -30,7 +30,7 @@ const ContactSection = () => {
             {
               icon: Clock,
               title: "Horaires",
-              lines: ["Mar – Sam : 12h – 14h30", "19h – 22h30", "Dim : 12h – 15h"],
+              lines: ["Tous les jours", "11h – 23h"],
             },
             {
               icon: Mail,
