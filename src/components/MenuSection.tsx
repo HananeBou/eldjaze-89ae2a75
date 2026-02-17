@@ -7,7 +7,7 @@ const menuItems = [
     items: [
       { name: "Salade Méchouia et galette maison", description: "Houmous, baba ganoush, taboulé, pain pita chaud", price: "14€" },
       { name: "Bourek au Fromage", description: "Feuilles de brick croustillantes, fromage fondant, herbes fraîches", price: "8€" },
-      { name: "Chorba frik traditionnelle", description: "Brick croustillante, œuf coulant, thon, câpres, persil", price: "9€" },
+      { name: "Brick (thon, viande ou poulet)", description: "Brick croustillante, œuf coulant, thon, câpres, persil", price: "9€" },
     ],
   },
   {
