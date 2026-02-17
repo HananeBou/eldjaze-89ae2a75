@@ -40,7 +40,7 @@ const HeroSection = () => {
 
           <a
             href="#carte"
-            className="inline-flex bg-primary text-primary-foreground px-8 py-3.5 text-sm uppercase tracking-[0.2em] font-body hover:opacity-90 transition-opacity rounded-sm">
+            className="inline-flex text-primary-foreground px-8 py-3.5 text-sm uppercase tracking-[0.2em] font-body hover:opacity-90 transition-opacity rounded-sm bg-primary">
 
             Découvrir la Carte
           </a>
