@@ -35,7 +35,7 @@ const ContactSection = () => {
             {
               icon: Mail,
               title: "Email",
-              lines: ["contact@olivea.fr"],
+              lines: ["contact@eldjaze.fr"],
             },
           ].map((item) => (
             <div key={item.title} className="text-center group">
