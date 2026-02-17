@@ -25,7 +25,7 @@ const ContactSection = () => {
             {
               icon: Phone,
               title: "Téléphone",
-              lines: ["04 91 00 00 00"],
+              lines: ["09 72 73 32 78"],
             },
             {
               icon: Clock,
@@ -58,7 +58,7 @@ const ContactSection = () => {
             Pour réserver une table, appelez-nous ou envoyez-nous un email.
           </p>
           <a
-            href="tel:0491000000"
+            href="tel:0972733278"
             className="inline-flex bg-primary text-primary-foreground px-8 py-3.5 text-sm uppercase tracking-[0.2em] font-body hover:opacity-90 transition-opacity rounded-sm"
           >
             Appeler pour Réserver
