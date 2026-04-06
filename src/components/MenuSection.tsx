@@ -89,6 +89,28 @@ const menuItems = [
       { name: "Sandwich Kebab + Boisson", description: "Sandwich kebab avec une boisson", price: "10,00€" },
     ],
   },
+  {
+    category: "Boissons",
+    items: [
+      { name: "Eau minérale", description: "50cl", price: "2,50€" },
+      { name: "Eau minérale 1L", description: "1 litre", price: "4,00€" },
+      { name: "Coca-Cola / Fanta / Sprite", description: "33cl", price: "3,00€" },
+      { name: "Jus de fruits frais", description: "Orange, mangue ou fraise", price: "4,50€" },
+      { name: "Thé à la menthe", description: "Thé vert à la menthe fraîche", price: "3,50€" },
+      { name: "Café", description: "Expresso ou allongé", price: "2,00€" },
+      { name: "Limonade maison", description: "Citron et menthe", price: "4,00€" },
+    ],
+  },
+  {
+    category: "Desserts",
+    items: [
+      { name: "Pâtisserie orientale", description: "Assortiment de pâtisseries maison", price: "6,00€" },
+      { name: "Crème brûlée", description: "Crème brûlée à la vanille", price: "6,50€" },
+      { name: "Fondant au chocolat", description: "Fondant au chocolat noir", price: "7,00€" },
+      { name: "Salade de fruits frais", description: "Fruits de saison", price: "5,50€" },
+      { name: "Tiramisu", description: "Tiramisu maison", price: "6,50€" },
+    ],
+  },
 ];
 
 const MenuSection = () => {
